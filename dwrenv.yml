@@ -1,0 +1,10 @@
+name: dwrenv
+channels:
+  - conda-forge
+dependencies:
+- pandas
+- scikit-learn
+- matplotlib
+- notebook
+- seaborn
+- h5py=2.9.0
