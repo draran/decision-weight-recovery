@@ -5,9 +5,9 @@ To recreate the figures, you need to install some software.
 1. Download/clone this repository and make note about the path/folder where you have saved it.  
 2. Install miniconda (https://docs.conda.io/projects/conda/en/latest/user-guide/install/).  
 3. Install the development environment used to run the analyses  
-    a. Open the terminal application (on MacOS/Linux) or anaconda prompt (on Windows).
-    b. Navigate to the folder where you have saved this repository (i.e., PATH).
-    c. Create the environment for data analyses.
+    - Open the terminal application (on MacOS/Linux) or anaconda prompt (on Windows).  
+    - Navigate to the folder where you have saved this repository (i.e., PATH).  
+    - Create the environment for data analyses.  
 ```sh
 cd PATH
 conda env create -f dwrenv.yml
